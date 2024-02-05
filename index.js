@@ -2,7 +2,7 @@
 // npm i inquirer@8.2.4
 const inquirer = require('inquirer'); // require inquirer
 const fs = require('fs'); // require fs
-const generateMarkdown = require('./utils/generateMarkdown.js'); // linking to generateMarkdown js file
+const generateMarkdown = require('./generateMarkdown.js'); // linking to generateMarkdown js file
 
 // refer to npmjs.com/package/inquirer documentation
 // generate prompt questions
